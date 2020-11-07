@@ -1,0 +1,17 @@
+table tr td.chẵn {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+table tr td.lẻ {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+table tr td {
+    width: 20px;
+    height: 20px;
+}
+table tr td.kb {
+    border: none;
+}
